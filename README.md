@@ -149,7 +149,8 @@ python main.py
 | **Revenue-to-Invested Capital Ratio (Years 3-5)** | Same as above. |
 | **Revenue-to-Invested Capital Ratio (Years 5-10)** | Same as above. |
 | **Tax Rate** | The program will automatically calculate the company’s average tax rate over the historical period, which can be used directly or adjusted manually. |
-| **WACC** | The program will automatically calculate the WACC based on risk-free rates, equity premium, and the company’s Beta value for the country. This can be used directly or adjusted manually. |
+| **WACC** | The program will automatically calculate the WACC based on risk-free rates, equity premium, and the company’s Beta value for the country. This can be used directly or adjusted manually. 
+| **RONIC** | Economic theory suggests competition will eliminate abnormal returns, meaning companies in competitive industries will see long-term return on new invested capital (RONIC) equal to WACC. However, firms with sustainable competitive advantages (such as a strong brand) may maintain excess returns beyond 10 years.  In such cases, a higher RONIC than WACC can be used for terminal value calculation, with this valuation model’s preset value being WACC plus 5%. |
 
 ---
 
