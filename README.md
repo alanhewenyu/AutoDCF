@@ -22,7 +22,7 @@ Automating the process of data collection and valuation calculation significantl
 
 ## **The Importance of DCF Valuation in Value Investing**
 
-Discounted Cash Flow (DCF) valuation is a core tool in value investing. Price is what we pay, value is what we get. No matter how good a company is, if bought at too high a price, it loses its investment value. As Buffett said, the essence of stock investing is to buy wonderful companies at fair value, and DCF valuation is the key tool to help us assess that "fair price."
+Discounted Cash Flow (DCF) valuation, which reflects a company’s intrinsic value, is a key tool in value investing. Price is what we pay, value is what we get. No matter how good a company is, if bought at too high a price, it loses its investment value. As Buffett said, forget buying fair businesses at wonderful prices; instead, buy wonderful businesses at fair prices. DCF valuation is the critical tool to help us determine that “fair price” or intrinsic value.
 
 DCF valuation involves several assumptions, and this project aims to minimize the manual input of parameters, focusing on three core variables: revenue growth, operating efficiency (EBIT margin), and reinvestment, offering a "vaguely correct" framework. As Buffett said, "I would rather be vaguely right than precisely wrong." Through fuzzy valuation, we can better understand the key drivers behind stock valuations and use sensitivity analysis to find the margin of safety. In a stock market full of uncertainties, DCF valuation offers us a clear path to long-term success.
 
