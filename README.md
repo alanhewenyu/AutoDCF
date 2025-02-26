@@ -135,6 +135,9 @@ python main.py
 - Parameters that require percentage values (including revenue growth, EBIT margin, tax rate, and WACC) should be entered as numbers without the percentage sign. For example, if the revenue growth rate is 10%, simply enter `10` (not `10%`).
 - The program will automatically interpret these numeric inputs as percentages (e.g., entering `10` will be interpreted as 10%).
 
+### **Demo**
+[![Demo](https://asciinema.org/a/jDFcXkMmUMIgPt7zBGlnozaCK.svg)](https://asciinema.org/a/jDFcXkMmUMIgPt7zBGlnozaCK)
+
 ---
 
 ## **Key Valuation Parameters Explanation**

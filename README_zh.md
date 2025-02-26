@@ -129,6 +129,9 @@ python main.py
 - 需要输入百分比的参数（包括收入增长率、EBIT 利润率、税率和 WACC）都使用数字表示，不带百分号。例如，如果收入增长率为 10%，请直接输入 `10`，而不是 `10%`。
 - 程序会自动将这些输入的数值视为百分比（例如，输入 `10` 会被解释为 10%）。
 
+### **Demo**
+[![Demo](https://asciinema.org/a/jDFcXkMmUMIgPt7zBGlnozaCK.svg)](https://asciinema.org/a/jDFcXkMmUMIgPt7zBGlnozaCK)
+
 ---
 
 ## **关键估值参数说明**
