@@ -119,6 +119,15 @@ def main(args):
         formatted_summary_df = format_summary_df(summary_df).copy()
         print(formatted_summary_df.to_string())
 
+        if period == 'quarter':
+            print("\nWarning: Valuation requires annual financial data. Please switch to 'annual' period to proceed.")
+            exit_program = input('\nExit program? (y/n): ').strip().lower()
+            if exit_program.lower() == 'y':
+                print("Exiting...")
+                break
+            else:
+                continue
+
         cont = input('\nProceed with valuation? (y/n): ').strip().lower()
         if cont.lower() != 'y':
             exit_program = input('Exit program? (y/n): ').strip().lower()
